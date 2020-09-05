@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetFfmpegWrapper", "DotNetFfmpegWrapper.csproj", "{5F0238E4-F911-400B-8E8B-86EF845F56BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FfMpegWrapperZ.Interfaces", "FfMpegWrapperZ.Interfaces\FfMpegWrapperZ.Interfaces.csproj", "{7CDB2C80-DAFC-4009-ACB2-541A12549AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F0238E4-F911-400B-8E8B-86EF845F56BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0238E4-F911-400B-8E8B-86EF845F56BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0238E4-F911-400B-8E8B-86EF845F56BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0238E4-F911-400B-8E8B-86EF845F56BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDB2C80-DAFC-4009-ACB2-541A12549AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDB2C80-DAFC-4009-ACB2-541A12549AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDB2C80-DAFC-4009-ACB2-541A12549AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDB2C80-DAFC-4009-ACB2-541A12549AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
